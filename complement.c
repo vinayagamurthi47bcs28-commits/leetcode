@@ -22,6 +22,5 @@ int findComplement(int num) {
         if (j != i - 1)
             power = power * 2;
     }
-
     return count;
 }
